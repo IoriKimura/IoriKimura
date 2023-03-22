@@ -5,7 +5,7 @@
 - 📫 You can write me in Telegram @IoriKimura
 ### My projects
 - 🐘 [CRM-web-application](https://github.com/IoriKimura/webappagain): PostgreSQL, Java 17, Spring Boot, Spring Security, Hibernate ORM. 
-- 🐘 [Web-application for RP table games](https://github.com/IoriKimura/PostgreSQL-Practice): PostgreSQL, Java 17, Spring Boot, Spring Security, Hibernate ORM.
+- 🐘 [Web-application for RP table games](https://github.com/IoriKimura/PostgreSQL-Practice): PostgreSQL, Java 17, Spring Boot, Spring Security, Hibernate ORM.  
 `You need DND_web_app folder`  
   > Курсовая работа по предмету в университете. Цель курсовой работы - создать веб-приложение, которое помогало бы людям создавать листы персонажей для настольных ролевых игр, по типу "D&D".  
 - 🐍 [Game on Python](https://github.com/IoriKimura/PythonGame): Python, pyGame.  
