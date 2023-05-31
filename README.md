@@ -4,8 +4,8 @@
 - 🌱 I’m currently studying at MIREA in Moscow and I wanna learn Java with many frameworks.
 - 📫 You can write me in Telegram @IoriKimura
 ### ✨ My projects
-- 🐘 [CRM-web-application](https://github.com/IoriKimura/webappagain): PostgreSQL, Java 17, Spring Boot, Spring Security, Hibernate ORM. 
-- 🐘 [Web-application for RP table games](https://github.com/IoriKimura/PostgreSQL-Practice): PostgreSQL, Java 17, Spring Boot, Spring Security, Hibernate ORM.  
+- 🐘 [CRM-web-application](https://github.com/IoriKimura/webappagain): PostgreSQL, Java 17, Spring Boot, Spring Security, JPA persistence. 
+- 🐘 [Web-application for RP table games](https://github.com/IoriKimura/PostgreSQL-Practice): PostgreSQL, Java 17, Spring Boot, Spring Security, JPA persistence.  
 `You need "DND_web_app folder"`  
   > Coursework on the subject at the university. The purpose of the term paper is to create a web application that would help people create character sheets for tabletop role-playing games, along the lines of "D&D".  
 - 🐍 [Game on Python](https://github.com/IoriKimura/PythonGame): Python, pyGame.  
@@ -14,8 +14,8 @@
   > Coursework for the first year of university. A censor of obscene words, which checks the text for the presence of foul words by comparing the words with the words in the file.
 
 ### ✨ Мои проекты
-- 🐘 [CRM-web-application](https://github.com/IoriKimura/webappagain): PostgreSQL, Java 17, Spring Boot, Spring Security, Hibernate ORM. 
-- 🐘 [Web-application for RP table games](https://github.com/IoriKimura/PostgreSQL-Practice): PostgreSQL, Java 17, Spring Boot, Spring Security, Hibernate ORM.  
+- 🐘 [CRM-web-application](https://github.com/IoriKimura/webappagain): PostgreSQL, Java 17, Spring Boot, Spring Security, JPA persistence. 
+- 🐘 [Web-application for RP table games](https://github.com/IoriKimura/PostgreSQL-Practice): PostgreSQL, Java 17, Spring Boot, Spring Security, JPA persistence.  
 `Вам нужна папка "DND_web_app folder"`  
   > Курсовая работа по предмету в университете. Цель курсовой работы - создать веб-приложение, которое помогало бы людям создавать листы персонажей для настольных ролевых игр, по типу "D&D".  
 - 🐍 [Game on Python](https://github.com/IoriKimura/PythonGame): Python, pyGame.  
