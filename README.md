@@ -1,4 +1,5 @@
 # 🫢 Check this out!
+![](https://komarev.com/ghpvc/?username=IoriKimura)
 - 👋 Hello, I'm Sergey Ivanov (@IoriKimura), but you can call me Serge or Kimura
 - 👀 I’m interested in backend development on Java
 - 🌱 I’m currently studying at MIREA in Moscow and I wanna learn Java with many frameworks.
